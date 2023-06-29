@@ -4,3 +4,10 @@
    **e-mail**: simvvit@gmail.com
 1. My goal is to become a good developer. I prioritize education, self-education, as they say
    > Learn, learn and learn.
+   1. Skills:
+   Basic, Pascal, JavaScript;
+   Bootstrap;
+   BEM;
+   Git;
+   HTML/CSS, Webpack;
+   Photoshop, InDesign, Figma, Autocad.
