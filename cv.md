@@ -12,11 +12,11 @@
    HTML/CSS, Webpack;
    Photoshop, InDesign, Figma, Autocad.
    1. ```<div class="header">
-       <ul class="nav">
-         <li><a class="nav-link" href="#">1</a></li>
-         <li><a class="nav-link" href="#">2</a></li>
-       </ul>
-     </div>
+            <ul class="nav">
+                <li><a class="nav-link" href="#">1</a></li>
+                <li><a class="nav-link" href="#">2</a></li>
+            </ul>
+        </div>
    ```
    1. Work experience: After graduation, I worked in the technical support department, as a junior system administrator. For several years I was engaged in freelance website layout.
 1. Courses on HTMLAcademy and Stepik.org 'HTML/CSS'
