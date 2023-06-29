@@ -11,3 +11,10 @@
    Git;
    HTML/CSS, Webpack;
    Photoshop, InDesign, Figma, Autocad.
+   1. ```<div class="header">
+       <ul class="nav">
+         <li><a class="nav-link" href="#">1</a></li>
+         <li><a class="nav-link" href="#">2</a></li>
+       </ul>
+     </div>
+   ```
