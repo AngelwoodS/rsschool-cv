@@ -18,3 +18,6 @@
        </ul>
      </div>
    ```
+   1. Work experience: After graduation, I worked in the technical support department, as a junior system administrator. For several years I was engaged in freelance website layout.
+1. Courses on HTMLAcademy and Stepik.org 'HTML/CSS'
+1. Level of English - Threshold or intermediate B1.
